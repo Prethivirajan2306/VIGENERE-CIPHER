@@ -1,3 +1,6 @@
+## Name:Prethivirajan.L
+## Reg No:212224040251
+
 # VIGENERE-CIPHER
 ## EX. NO: 1(D)
  
@@ -30,6 +33,7 @@ STEP-8: Repeat the above steps to generate the entire cipher text.
 
 
 ## PROGRAM
+```
 def generate_key(text, key):
    
     key = list(key)
@@ -85,7 +89,7 @@ print(f"Encrypted: {encrypted}")
 
 print(f"Decrypted: {decrypted}")
 
-
+```
 ## OUTPUT
 ![Screenshot 2025-03-27 090529](https://github.com/user-attachments/assets/9c989dbb-2857-4b85-a7ec-f226a0293c50)
 
